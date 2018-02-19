@@ -1,3 +1,8 @@
 ﻿public static void CR_00007(String[] aaa) {
-modify 2
+  // do something
+  this.CR_00007_sec(null) ;
+}
+
+public static void CR_00007_sec(String[] aaa) {
+// do some thing
 }
